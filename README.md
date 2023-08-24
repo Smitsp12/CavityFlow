@@ -7,3 +7,5 @@ This repository contains a python code that computes the velocity field in a sta
     ii) solve discritized vorticity transport and poission equation and from psi get velocity components.
 4) update the values of omega, psi, u and v for next iteration.
 5) post processing of the resuts.
+
+![Velocity Field](https://github.com/Smitsp12/CavityFlow/assets/132105298/6a8f07d2-291d-4e24-a00f-d58ca543a1f7)
